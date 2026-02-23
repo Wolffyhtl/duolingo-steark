@@ -6,8 +6,7 @@
 
 Streak keeper and XP farm for Duolingo. Never get demoted again!
 
-### How to use
-
+### Howto use
 1. [Fork this repository](https://github.com/rfoel/duolingo/fork)
 2. Go to [Duolingo](https://www.duolingo.com)
 3. While logged in, open the browser's console (Option (⌥) + Command (⌘) + J (on macOS) or Shift + CTRL + J (on Windows/Linux))
